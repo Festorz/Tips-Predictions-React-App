@@ -1,0 +1,22 @@
+export const headers = [
+    {
+        id:1,
+        title:'No.',
+    },
+    {
+        id:2,
+        title:'Date.',
+    },
+    {
+        id:3,
+        title:'Time',
+    },
+    {
+        id:4,
+        title:'Match',
+    },
+    {
+        id:5,
+        title:'Prediction',
+    },
+]
